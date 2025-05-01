@@ -1,0 +1,30 @@
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.exe
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.deps.json
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.runtimeconfig.json
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.dll
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.pdb
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.AssemblyInfoInputs.cache
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.AssemblyInfo.cs
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.dll
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\refint\Banque Console.dll
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.pdb
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.genruntimeconfig.cache
+C:\Users\Salim\Desktop\Projet Banque\Banque Console\obj\Debug\net6.0\ref\Banque Console.dll
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.exe
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.deps.json
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.runtimeconfig.json
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.dll
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\bin\Debug\net6.0\Banque Console.pdb
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.csproj.AssemblyReference.cache
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.GeneratedMSBuildEditorConfig.editorconfig
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.AssemblyInfoInputs.cache
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.AssemblyInfo.cs
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.csproj.CoreCompileInputs.cache
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.dll
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\refint\Banque Console.dll
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.pdb
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\Banque Console.genruntimeconfig.cache
+H:\Salim\BTS-2023-2024\C#\Projet Banque\Projet Banque\Projet Banque\Banque Console\obj\Debug\net6.0\ref\Banque Console.dll
